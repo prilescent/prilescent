@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prilescent
-- 👀 I’m interested in learning more about Software Engineering from all standpoints
-- 🌱 I’m currently learning Python and slowly building up and proving on my current knowledge.
+- 👀
+- 🌱
 - 💞️ 
 - 📫 
 
